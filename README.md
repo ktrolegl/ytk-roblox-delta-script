@@ -1,20 +1,6 @@
 # YTK Script for Roblox Delta
 
-A simple Lua script that displays "ytk" when loaded in Roblox Delta.
-
-## Files
-
-- **ytk_script.lua**: The main script that displays "ytk" in multiple ways
-- **delta_loader.lua**: A loader script that loads the main script from GitHub
-
-## How to Use
-
-### Direct Usage
-
-1. Create a GitHub repository (e.g., "ytk-roblox-delta-script")
-2. Upload `ytk_script.lua` to your repository
-3. In Roblox Delta, execute this code (replace "username" with your GitHub username):
-
+A si
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/username/ytk-roblox-delta-script/main/ytk_script.lua"))()
 ```
